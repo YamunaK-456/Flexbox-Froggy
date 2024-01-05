@@ -26,23 +26,29 @@
 #pond {
     display: flex;
   align-items: flex-end;
-  } */
+} */
 
 /*   // LEVEL 6
-  #pond {
+#pond {
     display: flex;
   align-items:center;
   justify-content : center;
-  } */
+} */
 
-  /*  //LEVEL 7
-   #pond {
+/*  //LEVEL 7
+#pond {
     display: flex;
   justify-content: space-around;
   align-items: flex-end;
-  } */
+} */
 
-  #pond {
+/*  //LEVEL 8
+#pond {
     display: flex;
   flex-direction: row-reverse;
-  }
+} */
+
+#pond {
+    display: flex;
+  flex-direction: column;
+}
