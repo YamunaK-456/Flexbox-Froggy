@@ -18,8 +18,7 @@ baseline: Items display at the baseline of the container.
 stretch: Items are stretched to fit the container.
 
 3.flex-direction
- flex-direction property, defines the direction items are placed in the container, and accepts the following values:
-
+flex-direction property, defines the direction items are placed in the container, and accepts the following values:
 row: Items are placed the same as the text direction.
 row-reverse: Items are placed opposite to the text direction.
 column: Items are placed top to bottom.
@@ -35,7 +34,11 @@ align-self property, accepts the same values as align-items and its value for th
 
 6.flex-wrap
 flex-wrap property, which accepts the following values:
-
 nowrap: Every item is fit to a single line.
 wrap: Items wrap around to additional lines.
 wrap-reverse: Items wrap around to additional lines in reverse.
+
+
+The two properties flex-direction and flex-wrap are used so often together that the shorthand property flex-flow was created to combine them. This shorthand property accepts the value of the two properties separated by a space.
+For example, you can use flex-flow: row wrap to set rows and wrap them.
+
