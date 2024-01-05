@@ -30,3 +30,5 @@ Sometimes reversing the row or column order of a container is not enough. In the
 positive number moves item to right.
 Negative number moves item to left.
 
+5.align-self
+align-self property, accepts the same values as align-items and its value for the specific item.
