@@ -28,5 +28,16 @@
   align-items: flex-end;
   } */
 
-  
+/*   // LEVEL 6
+  #pond {
+    display: flex;
+  align-items:center;
+  justify-content : center;
+  } */
+
+  #pond {
+    display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  }
 
