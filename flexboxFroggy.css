@@ -1,14 +1,23 @@
-/* #pond {
+/*   // LEVEL 1 
+#pond {
     display: flex;
     justify-content:flex-end;
 } */
 
-/* #pond {
+/*   // LEVEL 2
+ #pond {
     display: flex;
   justify-content:center;
 } */
 
+/*   // LEVEL 3
 #pond {
     display: flex;
   justify-content: space-around;
-  }
+} */
+
+#pond {
+    display: flex;
+  justify-content:space-between;
+}
+
