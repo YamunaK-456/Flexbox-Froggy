@@ -32,3 +32,10 @@ Negative number moves item to left.
 
 5.align-self
 align-self property, accepts the same values as align-items and its value for the specific item.
+
+6.flex-wrap
+flex-wrap property, which accepts the following values:
+
+nowrap: Every item is fit to a single line.
+wrap: Items wrap around to additional lines.
+wrap-reverse: Items wrap around to additional lines in reverse.
